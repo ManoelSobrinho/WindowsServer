@@ -96,11 +96,10 @@ Next
 
 ![image](https://github.com/user-attachments/assets/de6b95dd-9ac1-4aee-8c28-17947c6be11f)
 
-Install
+Next
 
 ![image](https://github.com/user-attachments/assets/ef37aa80-77e0-4c73-ac1c-b9dd5b8dd729)
 
+Install
+
 ![image](https://github.com/user-attachments/assets/2687c5e6-944f-4f2d-9fe5-b930929b32eb)
-
-
-
