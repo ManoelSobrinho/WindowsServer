@@ -1,6 +1,6 @@
 # Criando um servidor AD (Domain Controller)
 
-## Antes do procedimento
+## Configurações necessárias
 
 - Definir um IP fixo (caso não esteja).
 - Configurar o DNS.
@@ -8,7 +8,7 @@
 
 ## Procedimento
 
-### 1) Setup
+### 1) Configurações de rede
 
 Server Manager → Local Server → Ethernet
 
@@ -17,4 +17,9 @@ Server Manager → Local Server → Ethernet
 Botão direito → Properties → Ipv4
 
 ![image](https://github.com/user-attachments/assets/43344923-17f6-4a3b-a0ae-dd30db1c2bcb)
+
+Use the following IP addres
+
+![image](https://github.com/user-attachments/assets/8f0be8ab-8a66-455d-a531-c60452900290)
+
 
