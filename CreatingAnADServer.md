@@ -12,7 +12,8 @@
 
 Server Manager -> Local Server -> Ethernet
 
-![image](https://github.com/user-attachments/assets/d971de05-3ae9-4fc4-8934-032c28f33ae3)
+![image](https://github.com/user-attachments/assets/bc13af8b-acf7-4ed5-a76c-951cf9c13106)
+
 
 
 
