@@ -23,3 +23,23 @@ Botão direito → Properties → Internet Protocol Version 4 (TCP/IPv4)
 Use the following IP addres → Adicionar configuração de rede
 
 ![image](https://github.com/user-attachments/assets/71b4b845-2a92-44c6-bc92-e1078ff03c71)
+
+### 2) Configuração do AD
+
+Server Manager → Dashboard → Add roles and features
+
+![image](https://github.com/user-attachments/assets/37ea2c05-0198-4abb-b968-58926ae738e5)
+
+Next
+
+![image](https://github.com/user-attachments/assets/b402835e-19ed-48d2-8f25-2b948a097043)
+
+Role-based or feature-based installation → Next
+
+![image](https://github.com/user-attachments/assets/b438899b-0e83-4673-9458-e5cc1ccf0084)
+
+Select a server from the server pool → Next
+
+![image](https://github.com/user-attachments/assets/0c11cb81-7657-4004-b0df-24f339f96608)
+
+
