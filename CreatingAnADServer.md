@@ -10,10 +10,11 @@
 
 ### 1) Setup
 
-Server Manager -> Local Server -> Ethernet
+Server Manager → Local Server → Ethernet
 
 ![image](https://github.com/user-attachments/assets/bc13af8b-acf7-4ed5-a76c-951cf9c13106)
 
+Botão direito → Properties → Ipv4
 
-
+![image](https://github.com/user-attachments/assets/43344923-17f6-4a3b-a0ae-dd30db1c2bcb)
 
